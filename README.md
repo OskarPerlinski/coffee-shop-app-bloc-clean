@@ -1,2 +1,10 @@
-# coffee-shop-app-bloc-clean
- 
+![Screenshot_1728585453](https://github.com/user-attachments/assets/6c279f3a-ef02-448c-9061-eff4d104e836)
+![Screenshot_1728585449](https://github.com/user-attachments/assets/dae2cd8a-a870-40db-918f-9bb550f79ccf)
+![Screenshot_1728585441](https://github.com/user-attachments/assets/2ff43301-5a1c-4ac0-857e-3779212c22c3)
+![Screenshot_1728585438](https://github.com/user-attachments/assets/a2971d71-c4c2-4605-b7ae-70c387feb1c5)
+![Screenshot_1728585421](https://github.com/user-attachments/assets/5f60e3ec-96e0-414e-a786-78295420b3cb)
+![Screenshot_1728585415](https://github.com/user-attachments/assets/b5c6e9ce-57de-40f1-b270-0fc9ae8befa0)
+![Screenshot_1728585409](https://github.com/user-attachments/assets/cecc00f8-4c09-4a02-8f63-ff7233cbdad1)
+![Screenshot_1728585357](https://github.com/user-attachments/assets/c0c67af2-9258-4848-9cbb-7f9ab8699427)
+![Screenshot_1728585351](https://github.com/user-attachments/assets/f30e5b28-cfd3-49a0-a3a1-aae0f3e1a9fc)
+![Screenshot_1728585325](https://github.com/user-attachments/assets/f959aca3-0d3d-4a93-933c-9462389f397a)
